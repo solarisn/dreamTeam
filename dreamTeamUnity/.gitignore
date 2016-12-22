@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 
->>>>>>> b60b31583cac5a32417d833ae02f0d27d3fa7e31
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -31,8 +28,4 @@ sysinfo.txt
 
 # Builds
 *.apk
-<<<<<<< HEAD
 *.unitypackage
-=======
-*.unitypackage
->>>>>>> b60b31583cac5a32417d833ae02f0d27d3fa7e31
